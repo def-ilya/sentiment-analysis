@@ -1,0 +1,184 @@
+[
+      {
+            "title": "This is a weird question, but does anyone know of a dip that can be used for both savory things (like chips) and sweet things (like fruit)?",
+            "neg": 0.039,
+            "neu": 0.66,
+            "pos": 0.301,
+            "compound": 0.8793
+      },
+      {
+            "title": "The Queen/Pope/In-laws/Anyone you want to make a good impression on/ is coming to dinner tonight. What's your meal you make from scratch for them?",
+            "neg": 0.0,
+            "neu": 0.775,
+            "pos": 0.225,
+            "compound": 0.6249
+      },
+      {
+            "title": "anything interesting to make with canned tuna?",
+            "neg": 0.0,
+            "neu": 0.69,
+            "pos": 0.31,
+            "compound": 0.4019
+      },
+      {
+            "title": "What's a comfort food you grew up eating?",
+            "neg": 0.0,
+            "neu": 0.737,
+            "pos": 0.263,
+            "compound": 0.3612
+      },
+      {
+            "title": "Oh my God, your food has so much flavor!",
+            "neg": 0.0,
+            "neu": 0.77,
+            "pos": 0.23,
+            "compound": 0.3382
+      },
+      {
+            "title": "I like meatloaf. I like smoked meats. How can I make a smoked meatloaf? I feel like this is something that sounds straightforward but is actually tricky to pull off, especially if I\u2019m trying to wrap it in bacon and glaze it.",
+            "neg": 0.042,
+            "neu": 0.842,
+            "pos": 0.116,
+            "compound": 0.3291
+      },
+      {
+            "title": "Need Help: Trying to make a breakfast pizza for a kid who doesn't like to eat my eggs (scrambled, fried, or otherwise)",
+            "neg": 0.085,
+            "neu": 0.806,
+            "pos": 0.109,
+            "compound": 0.1506
+      },
+      {
+            "title": "Weekly Youtube/Blog/Content Round-up! - April 04, 2022",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "All-Clad is having their factory seconds sale this weekend, for those looking for stainless pans",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "What spices or spice blends are typically \u201coverpowering\u201d?",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Egg Yolk in Mashed Potatoes.... omg",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Due to anemia, I must add calf liver to my diet. Can you make liver appetizing?",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Cooking with Disordered Eating",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "What one thing can the average home chef incorporate into their technique",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Beans and rice",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Using the rest of the anchovies from the tin",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "will a rice cooker make a difference?",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Mashed Potato Recipes",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "At what age did you realize that your parents are actually the \u201cpicky eaters\u201d?",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Sour Milk In An Old Cake Recipe?",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Pizza dough but not to make pizza",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Is there a cooking technique where you use a double boiler to cook pasta in sauce?",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "How to handle pork shoulder",
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+      },
+      {
+            "title": "Cooktop for serious wok cooking at home",
+            "neg": 0.178,
+            "neu": 0.822,
+            "pos": 0.0,
+            "compound": -0.0772
+      },
+      {
+            "title": "i miss peanut butter...",
+            "neg": 0.348,
+            "neu": 0.652,
+            "pos": 0.0,
+            "compound": -0.1531
+      },
+      {
+            "title": "What\u2019s the one cooking\u201cbest practice\u201d that you tend to disregard, despite knowing it is legit?",
+            "neg": 0.13,
+            "neu": 0.87,
+            "pos": 0.0,
+            "compound": -0.2732
+      }
+]
